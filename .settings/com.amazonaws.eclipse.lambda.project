@@ -1,0 +1,7 @@
+#Lambda Function Project Metadata
+#Tue Jun 06 11:54:40 BST 2017
+lastInvokeShowLiveLog=true
+lastDeploymentFunctionName=AD-TEST-LAMBDA
+lastDeploymentBucketName=tr-fr-derivativesmaster
+lastDeploymentEndpoint=https\://lambda.eu-west-1.amazonaws.com/
+lastInvokeInput="why are you working from here but not from CLI"
